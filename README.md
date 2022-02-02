@@ -13,6 +13,10 @@ After installing Local WP you should:
 
 3- Select the downloaded ZIP file.
 
-4- IMPORTANT! A prompt will ask for Local site name and it has to be "nicapodcasts" OR you have to modify the Site Domain "nicapodcasts.local" on the site overview after importing. Otherwise the endpoints will not match in the client.
+4- Put local name to the site.
 
-5- Start the site.
+5- IMPORTANT! You have to modify the Site Domain to "nicapodcasts.local" on the site overview after importing. Otherwise the endpoints will not match in the client.
+
+6- Start the site.
+
+In case there is an error within Local and asks you to switch domain to localhost, you´ll then have to change also the endpoints in the client.
