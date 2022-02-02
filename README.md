@@ -19,4 +19,4 @@ After installing Local WP you should:
 
 6- Start the site.
 
-In case there is an error within Local and asks you to switch domain to localhost, you´ll then have to change also the endpoints in the client.
+In case there is an error within Local and asks you to switch domain to localhost, you´ll then have to change also the domain name in the client. The variables BASIC_URL and DOMAIN at constants.js have to be updated.
